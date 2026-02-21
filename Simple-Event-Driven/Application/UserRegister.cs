@@ -1,5 +1,6 @@
 ﻿class UserRegister
 {
+
     // create event hear
     public event EventHandler<UserRegisteredEventArgs> UserRegistered;
     public event EventHandler<RegisterFailedEventArgs> RegisterFailed;
